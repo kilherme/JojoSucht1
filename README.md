@@ -1,4 +1,4 @@
-Telenovela für Deutschlerner ·
+DW(Deutsche Welle) Telenovela für Deutschlerner ·
 
 Staffel 1
 
