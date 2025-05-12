@@ -75,6 +75,12 @@ gefallen=agrada
 stößt=empurra/esbarra
 
 Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.
+Am Dom merkt Jojo, dass auch in Deutschland nicht alle Leute freundlich sind. Aber sie ist froh, dass ihr Geld nicht weg ist. Danach nimmt sie ein Taxi, weil sie eine Verabredung hat. Auch der Taxifahrer muss um fünf zu Hause sein. Weil Jojo zu früh ist, soll das Taxi sie in ein Café in der Nähe bringen.
+merkt=percebe
+nimmt=pega
+muss=deve
+bringen=levar
+
 
 
 
