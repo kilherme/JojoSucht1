@@ -69,4 +69,14 @@ Reza höflich
 Jojo verzweifelt
 Mark unfreundlich
 
+Spiel das Video noch einmal ab und lies die Fragen. Wähl die richtige Antwort aus.
+
+Wen oder was sucht Jojo?
+Jojo sucht den Taxifahrer, der ihre Tasche hat.(F)
+Jojo sucht die Wohnung, in der sie ein Zimmer gemietet hat. (V)
+
+Welchen Fehler hat Jojo gemacht?
+Jojo hat die falsche Hausnummer aufgeschrieben.(F)
+Jojo hat die falschen Vornamen aufgeschrieben.(V)
+
 
