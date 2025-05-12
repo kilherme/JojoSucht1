@@ -69,6 +69,7 @@ Reza höflich
 Jojo verzweifelt
 Mark unfreundlich
 
+
 Spiel das Video noch einmal ab und lies die Fragen. Wähl die richtige Antwort aus.
 
 Wen oder was sucht Jojo?
@@ -78,5 +79,16 @@ Jojo sucht die Wohnung, in der sie ein Zimmer gemietet hat. (V)
 Welchen Fehler hat Jojo gemacht?
 Jojo hat die falsche Hausnummer aufgeschrieben.(F)
 Jojo hat die falschen Vornamen aufgeschrieben.(V)
+
+
+Spiel das Video noch einmal ab und lies die Fragen. Wähl die richtige Antwort aus.
+
+Wen erwarten Reza und Mark?
+Reza und Mark erwarten einen Mann aus Brasilien.(V)
+Reza und Mark erwarten eine Frau aus Brasilien.(F)
+
+Welches neue Problem hat Jojo jetzt?
+Reza möchte nicht, dass eine Frau in die Wohngemeinschaft einzieht.(F)
+Mark möchte nicht, dass eine Frau in die Wohngemeinschaft einzieht.(V)
 
 
