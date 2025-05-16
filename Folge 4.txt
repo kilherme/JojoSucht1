@@ -47,7 +47,7 @@ Oje, die sind ja wirklich schlecht gelaunt hier...
 
 
 Wer nach Deutschland zieht, muss sich bei der Stadt anmelden. An welches Amt muss er sich wenden?
-()Sozialamt  ()Finanzamt  (X)Einwohnermeldeamt  ()Standesamt
+()Sozialamt(Ass.Social)  ()Finanzamt  (X)Einwohnermeldeamt(reg.residentes)  ()Standesamt(cartório)
 
 
 
