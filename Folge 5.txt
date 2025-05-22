@@ -60,8 +60,8 @@ Neben Pizza und Hamburger wird auch die *Currywurst gern gegessen.
 
 Spiel nun das Video ab. Was machen Jojo und ihre neue Freundin Lena in dieser Folge? Wähl die passenden Antworten aus. Mehrere Antworten sind richtig.
 
-Sie stehen an einem Marktstand.
-Sie fahren mit der Straßenbahn.
-Sie überqueren eine Straße.
-Sie stehen vor dem Restaurant und reden.
+Sie stehen an einem Marktstand.(x)
+Sie fahren mit der Straßenbahn.(Elas pegam o bonde)
+Sie überqueren eine Straße. (atravessando)
+Sie stehen vor dem Restaurant und reden.(x)
 Sie sitzen im Restaurant und essen etwas.
