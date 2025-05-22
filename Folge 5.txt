@@ -57,6 +57,7 @@ Man kann ihn in *Cafés und Bäckereien zum Mitnehmen bestellen, um ihn unterweg
 Mittags oder abends ist ein *Döner als schnelle Mahlzeit sehr beliebt. Oder man wählt die vegetarische Variante, die *Falafel aus Kichererbsen. 
 Neben Pizza und Hamburger wird auch die *Currywurst gern gegessen.
 
+zum Mitnehmen bestellen=pedir comida para viagem
 unterweg=em qualquer lugar
 
 
