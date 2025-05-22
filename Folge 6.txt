@@ -30,7 +30,7 @@ Ich muss erst noch die Aufnahmeprüfung schaffen.
 
 (Mark) Das letzte Mal hast du dich beschwert.                                                            (beschwert=reclamou)
 
-(Reza) Na ja, ein Kasten Bier, Toastbrot und Chips!Das ist nicht gerade die Ernährung, die ich bevorzuge.(Ernährung=dieta)
+(Reza) Na ja, ein Kasten Bier, Toastbrot und Chips!Das ist nicht gerade die Ernährung, die ich bevorzuge.(Ernährung=dieta, bevorzuge=preferência)
 
 (Mak) Nicht zu vergessen: die leckeren Cornflakes!
 
