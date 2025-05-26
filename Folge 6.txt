@@ -12,7 +12,7 @@ Oder auch die Sprache - Persisch...
 
 (Jojo) Was machst du eigentlich sonst so Lena? Studierst du?
 
-(Lena) Momentan jobbe ich nur nebenbei.Ich will Schauspielerin werden.
+(Lena) Momentan jobbe ich nur nebenbei.Ich will Schauspielerin werden.                                    (nebenbei=meio periodo)
 
 Meine Eltern finden das zwar fürchterlich, aber...                                                        (fürchterlich=terrível)
 
@@ -61,7 +61,7 @@ Ich seh's ja schon wieder kommen - Warscheinlich ist es einfach besser, wenn ich
 Lena...
 
 bringt Jojo nach Hause.(x)              
-nimmt Jojo mit zu sich nach Hause.                
+nimmt Jojo mit zu sich nach Hause.                 (nimmt=leva)             
 erklärt Jojo, wie sie am besten nach Hause kommt.
 
 Jojo ...
@@ -75,3 +75,15 @@ Mark und Reza ...
 machen eine Einkaufsliste.
 überlegen, was Jojo gerne isst und trinkt.
 reden darüber, wer den Einkauf macht.
+
+Mark ...
+
+legt viel Wert auf gesunde Ernährung.
+kocht nicht so gerne, aber übernimmt dafür in der WG regelmäßig den Einkauf.
+kauft nur, was er selbst gern isst und trinkt, und denkt nicht an die anderen.(x)
+
+Lena und Reza ...
+
+kennen sich aus der Schule.
+finden sich sofort sympathisch.(x)
+beginnen gleich ein langes Gespräch miteinander.
