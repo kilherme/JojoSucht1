@@ -74,7 +74,7 @@ Mark und Reza ...
 
 machen eine Einkaufsliste.
 überlegen, was Jojo gerne isst und trinkt.
-reden darüber, wer den Einkauf macht.
+reden darüber, wer den Einkauf macht.      (x)
 
 Mark ...
 
