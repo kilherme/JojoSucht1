@@ -2,10 +2,12 @@ Folge 8 Die Prüfung
 
 (Jojo) Yes, Geschafft
 
-()Suchst du jemanden?
+(Carla) Suchst du jemanden?
 
 (Jojo) Meinen Freund. Er wollte mich abholen.
 
-()Also, hier bin nur ich. Sonst war niemand hier. Aber vielleicht kommt er ja noch.
+(Carla) Also, hier bin nur ich. Sonst war niemand hier. Aber vielleicht kommt er ja noch.
 
 Aber erst mal: Herzlichen Glückwunch!
+
+(Jojo) Ja, danke. Hast du dich auch beworben?
