@@ -4,7 +4,7 @@ Folge 8 Die Prüfung
 
 (Carla) Suchst du jemanden?
 
-(Jojo) Meinen Freund. Er wollte mich abholen.
+(Jojo) Meinen Freund. Er wollte mich abholen.     (abholen=retirar,buscar)
 
 (Carla) Also, hier bin nur ich. Sonst war niemand hier. Aber vielleicht kommt er ja noch.
 
