@@ -65,7 +65,7 @@ Die anderen Plätze sind schon vergeben.
 
 Welches Wort passt in welche Lücke? Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.
 
-An manchen Hochschulen muss man eine besondere Aufnahmeprüfung machen. In dieser Prüfung müssen die Bewerber zeigen, dass sie die Voraussetzungen für dieses Studium erfüllen. Eine Kommission wählt die besten Ergebnisse aus. Meistens gibt es viel mehr Bewerber als Studienplätze.Deshalb ist es wichtig, die Prüfung zu bestehen. Wer durchfällt muss es an einer anderen Hochschule probieren oder sich einen anderen Studiengang suchen.
+An manchen *Hochschulen muss man eine besondere Aufnahmeprüfung machen. In dieser Prüfung müssen die *Bewerber zeigen, dass sie die Voraussetzungen für dieses Studium erfüllen. Eine *Kommission wählt die besten Ergebnisse aus. Meistens gibt es viel mehr Bewerber als *Studienplätze.Deshalb ist es wichtig, die Prüfung zu bestehen. Wer durchfällt muss es an einer anderen *Hochschule probieren oder sich einen anderen Studiengang suchen.
 
 bestehen=consistem
 Kommission=Comissão
