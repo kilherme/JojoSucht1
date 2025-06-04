@@ -77,3 +77,7 @@ Hochschulen=universidades
 
 Spiel nun das Video ab und wähl die passenden Antworten aus. Wen trifft Jojo nach ihrer Aufnahmeprüfung an der Kunsthochschule? Mehrere Antworten sind richtig.
 
+Alex, den sie vor dem Falafelladen kennen gelernt hat
+Carla, die sich auch um einen Studienplatz an der Kunsthochschule bewirbt
+
+
