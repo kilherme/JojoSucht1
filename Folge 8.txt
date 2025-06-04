@@ -73,3 +73,7 @@ Bewerber=candidatos
 durchfällt=falha
 Studienplätze=Locais de estudo
 Hochschulen=universidades
+
+
+Spiel nun das Video ab und wähl die passenden Antworten aus. Wen trifft Jojo nach ihrer Aufnahmeprüfung an der Kunsthochschule? Mehrere Antworten sind richtig.
+
