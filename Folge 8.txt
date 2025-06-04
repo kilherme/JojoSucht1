@@ -65,4 +65,9 @@ Die anderen Plätze sind schon vergeben.
 
 Welches Wort passt in welche Lücke? Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.
 
-
+bestehen=consistem
+Kommission=Comissão
+Bewerber=candidatos
+durchfällt=falha
+Studienplätze=Locais de estudo
+Hochschulen=universidades
