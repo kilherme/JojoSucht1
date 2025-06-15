@@ -46,7 +46,7 @@ Du hast dich noch nicht mit ihm getroffen, oder?  (getroffen=Part II treffen,tri
 
 (Mark) Na, dann bin ich ja mal gespannt. Ich hoffe, du kommst lebend zurück.  (gespannt=ancioso/tenso/curioso)
 
-Wie naiv ihr Frauen seid! Unfassbar!
+Wie naiv ihr Frauen seid! Unfassbar!  (naiv=ingênua Unfassbar=inacreditável)
 
 Meine Ex-Freundin wollte auch immer aud die Kunsthochschule!
 
@@ -108,11 +108,22 @@ Wähl die passende Erklärung aus.
 
 Da bin ich ja mal gespannt!        
                             Ich glaube, dass Ben kommt.
-                            Ich möchte gerne wissen, ob das Treffen mit Ben klappt und ob alles gut geht.
+                            Ich möchte gerne wissen, ob das Treffen mit Ben klappt und ob alles gut geht.(x)
                             Ich freue mich für dich, dass du Ben endlich triffst.
 
 Als ob du ein Diplom brauchst, um Künstler zu sein!
                                                     Du solltest lieber ein anderes Studium machen!
                                                     Ein Kunststudium ist viel zu schwer für dich, das schaffst du nie.
-                                                    Du kannst auch ein Künstler sein, ohne an der Uni zu studieren.
+                                                    Du kannst auch ein Künstler sein, ohne an der Uni zu studieren.(x)
+
+Mark sagt Jojo sehr deutlich und direkt, dass er sie nicht verstehen kann und ein Treffen mit Ben gefährlich findet. Was ist mit den folgenden Äußerungen gemeint? Wähl die passenden Erklärungen in der richtigen Reihenfolge aus.
+1. Unfassbar!
+Ich kann es nicht glauben!
+2. Das ist total bescheuert!
+Das ist eine ganz schlechte Idee!
+3. Spinner
+ein verrückter Mensch
+4. Wie naiv du bist!
+Du denkst überhaupt nicht an die Gefahren!
+
                                                     
