@@ -98,4 +98,7 @@ Was ist denn los?
                     Wo kommst du denn her?
                     Was hast du denn vor?
 
-
+Du rennst ihm blind in die Arme!
+                                Du weißt nicht, in welche Richtung du läufst.
+                                Du begibst dich in eine gefährliche Situation.(x)
+                                Du hast dir sein Foto nicht richtig angesehen.
