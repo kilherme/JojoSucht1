@@ -92,4 +92,9 @@ Spiel das Video noch einmal ab. Welche Aussage ist richtig? Wähl aus.
 Lenas Mutter möchte Jojo einladen,
                                   weil sie glaubt, dass Jojo in Deutschland einsam ist.
                                   weil sie weiß, dass es in der WG mit Mark und Reza oft nichts zu essen gibt.
-                                  weil sie Brasilien toll findet.
+                                  weil sie Brasilien toll findet.(x)
+
+Jojo und Ben haben sich wieder nicht getroffen. Was hat Jojo falsch gemacht?
+                                                                            Sie ist eine halbe Stunde zu früh zu der Verabredung gegangen.
+                                                                            Sie hat an der Bushaltestelle gewartet und nicht am U-Bahn-Ausgang.
+                                                                            Es gibt mehr als einen U-Bahn-Ausgang Lohsestraße. Sie hat am falschen gewartet.
