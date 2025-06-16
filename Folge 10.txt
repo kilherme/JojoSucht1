@@ -97,4 +97,4 @@ Lenas Mutter möchte Jojo einladen,
 Jojo und Ben haben sich wieder nicht getroffen. Was hat Jojo falsch gemacht?
                                                                             Sie ist eine halbe Stunde zu früh zu der Verabredung gegangen.
                                                                             Sie hat an der Bushaltestelle gewartet und nicht am U-Bahn-Ausgang.
-                                                                            Es gibt mehr als einen U-Bahn-Ausgang Lohsestraße. Sie hat am falschen gewartet.
+                                                                            Es gibt mehr als einen U-Bahn-Ausgang Lohsestraße. Sie hat am falschen gewartet.(x)
