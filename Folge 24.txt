@@ -10,7 +10,7 @@ Folge 24 Schlechte Stimmung
 
 (Alex) Mit deinem Stalker ... Ach Quatsch. Ich bin hier mit...
 
-(Carta) ... Carla verabredet! Hallo!
+(Carla) ... Carla verabredet! Hallo!
 
 (Alex) Hast du deinen Ben denn jetzt in Bonn getroffen? Na komm schon, mach's nicht so spannend!
 
@@ -18,3 +18,8 @@ Folge 24 Schlechte Stimmung
 
 (Jojo) Hallo Ben, hast du wenigstens einen guten Abend? Deine Jojo.
 
+Und Reza, wie findest du den Laden hier? Wir hatten einen richtig schönen Tag, oder?
+
+(Mark) Super.
+
+(Carla) Hey Mark, hörst du, was für'n Lied sie spielen? Das ist unser Lied! Komm!
